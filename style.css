@@ -73,6 +73,9 @@ a {
   cursor: pointer;
 }
 
+.main-image {
+  position: relative;
+}
 .gallerry-item.active {
   border: 6px solid #e404c6ff;
 }
